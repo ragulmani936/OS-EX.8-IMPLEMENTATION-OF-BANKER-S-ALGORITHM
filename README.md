@@ -81,6 +81,9 @@ print(" P", ans[n - 1], sep="")
 ```
 ## OUTPUT:
 
+![1](https://github.com/ragulmani936/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/94881918/eaed2a9b-dd2c-46a0-9db4-b873aff3d2a6)
+
+
 ## RESULT:
 Thus the program for the bankers algorithm is implemented successfully.
  
